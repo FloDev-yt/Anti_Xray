@@ -1,0 +1,12 @@
+{
+    "values":[
+        "minecraft:air",
+        "minecraft:cobweb",
+        "minecraft:oak_fence",
+        "minecraft:rail",
+        "minecraft:water",
+        "minecraft:lava",
+        "minecraft:seagrass",
+        "minecraft:kelp_plant"
+    ]
+}

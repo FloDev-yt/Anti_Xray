@@ -1,0 +1,2 @@
+summon area_effect_cloud ~ ~ ~ {Duration:2147483647,CustomName:"\"ax_diamond\""}
+execute as @e[type=area_effect_cloud,name=ax_diamond,distance=..0.1,limit=1] run function anti_xray:diamond/init_test_seen

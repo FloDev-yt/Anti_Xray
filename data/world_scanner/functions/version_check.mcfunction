@@ -1,0 +1,1 @@
+execute if score #version world_scanner matches 20 run function world_scanner:main_20t

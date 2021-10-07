@@ -1,0 +1,18 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "location": {
+      "position": {
+        "y": {
+          "min": 2,
+          "max": 125
+        }
+      },
+      "dimension": "minecraft:the_nether"
+    },
+    "player": {
+      "gamemode": "survival"
+    }
+  }
+}
