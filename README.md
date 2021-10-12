@@ -1,11 +1,11 @@
 # Datapack Anti X-Ray 
 
-Ce Datapack vous permet de rendre invisible tous les blocs de Diamand <img src="https://lh3.googleusercontent.com/pntIUqSovRdD1HItuB4gHoWvbse9n6cNclPs7P7upGUjR_7P-8MpwsW4OeF3FMINeShNVNbltceAD-Uf5RvbMg" width="20" height="20" /> et d'Ancient debris <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Ancient_Debris_%28top_texture%29_JE1_BE1.png/revision/latest/scale-to-width-down/250?cb=20200930214343
+Ce Datapack vous permet de rendre invisible tous les blocs de Diamand <img src="https://lh3.googleusercontent.com/pntIUqSovRdD1HItuB4gHoWvbse9n6cNclPs7P7upGUjR_7P-8MpwsW4OeF3FMINeShNVNbltceAD-Uf5RvbMg" width="20" height="20" /> et d'Ancient debris <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcv1NkC_ul8tJMqJ0ug0tOPqHKJnwraDfkxg&usqp=CAU
 " width="20" height="20" /> pour Minecraft Java édition.
 
 #### Exemple
 *Voici un joueur voulant utiliser X-Ray alors que le datapack est instalé*
-![démonstation GIF](https://imgur.com/VUKB49O.gif)
+![démonstation GIF](https://imgur.com/NKEx0ya.gif)
 
 
 Cela peut être très utile pour tous les serveurs multijeurs car le Diamand et les Ancient debris sont les deux resources les plus rares du jeu et n'importe quel joueur peut être tenté d'utiliser un Resource pack X-Ray pour les trouver plus rapidement.
@@ -24,7 +24,7 @@ Ce Datapack fonctionne en scannant l'Overworld et le Nether et vas remplacer les
 [Bloc Barrière](https://minecraft-fr.gamepedia.com/Barri%C3%A8re_invisible) <img src="https://mineblocks.com/1/wiki/images/c/cc/Barrier.png" width="20" height="20" /> , de cette manier il ne scanne qu'une foie chaque chunck et restera en veille tant qu'aucun nouveau chunck n'est trouvé.
 
 ## Téléchargement
-- [Pour Minecraft 1.16](https://github.com/FloDev-yt/Anti_Xray/releases)
+[**Anti_Xray-MC-1.16**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Anti_Xray/tree/MC-1.16/datapack&fileName=Anti_Xray-MC-1.16&rootDirectory=false) *(Pour Minecraft 1.16)*
 
 
 
