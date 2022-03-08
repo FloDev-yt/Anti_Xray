@@ -1,43 +1,43 @@
 # Datapack Anti X-Ray 
 
-Ce Datapack vous permet de rendre invisible tous les blocs de Diamand <img src="https://lh3.googleusercontent.com/pntIUqSovRdD1HItuB4gHoWvbse9n6cNclPs7P7upGUjR_7P-8MpwsW4OeF3FMINeShNVNbltceAD-Uf5RvbMg" width="20" height="20" /> et d'Ancient debris <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Ancient_Debris_(top_texture)_JE1_BE1.png" width="20" height="20" /> pour Minecraft Java édition.
+Ce Datapack vous permet de rendre invisible tous les *blocs de diamants* <img src="https://lh3.googleusercontent.com/pntIUqSovRdD1HItuB4gHoWvbse9n6cNclPs7P7upGUjR_7P-8MpwsW4OeF3FMINeShNVNbltceAD-Uf5RvbMg" width="20" height="20" /> et de *débris antiques* <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Ancient_Debris_(top_texture)_JE1_BE1.png" width="20" height="20" /> pour Minecraft Java édition.
 
 #### Exemple
-*Voici un joueur voulant utiliser X-Ray alors que le datapack est instalé*
+*Voici un joueur voulant utiliser X-Ray alors que le datapack est installé*
+
 ![https://imgur.com/NKEx0ya.gif](https://github.com/FloDev-yt/media/blob/main/demonstration.gif)
 
+Cela peut être très utile pour tous les serveurs multijoueurs car le diamant et les débris antique sont les deux resources les plus rares du jeux et n'importe quels joueurs peut être tentés d'utiliser un Resource pack X-Ray pour les trouver plus rapidement.
 
-Cela peut être très utile pour tous les serveurs multijeurs car le Diamand et les Ancient debris sont les deux resources les plus rares du jeu et n'importe quel joueur peut être tenté d'utiliser un Resource pack X-Ray pour les trouver plus rapidement.
-
-Ce Datapack est simple et optimiser afin qu'il puis être utilisé comme une référence par tous les serveurs multi qui veulent perdurer.
+Ce Datapack est simple et optimisé afin qu'il puis être utilisé comme une référence par tous les serveurs multijoueurs qui veulent perdurer.
 
 
 ## Fonctionnement 
 
-Ce Datapack fonctionne en scannant l'Overworld et le Nether et vas remplacer les minerais de Diamand par de la Pierre et les Ancient debris par de la Netherack.
-- Les minierais vont réaparéte instantanèment des qu'ils devienne visible
+Ce Datapack fonctionne en scannant *l'Overworld* et *le Nether* et va venir remplacer les minerais de *diamant* par de la *pierre* et *les débris antiques* par de *la Netherack*.
 
-- Supporte le minage par TNT et par Lit pour le Nether
+- Les minerais vont réapparaître instantanément dès qu'ils deviennent visibles
 
-- Le scanneur remplacer la bedrock en couche 0 de chaque chunck par le  
-[Bloc Barrière](https://minecraft-fr.gamepedia.com/Barri%C3%A8re_invisible) <img src="https://mineblocks.com/1/wiki/images/c/cc/Barrier.png" width="20" height="20" /> , de cette manier il ne scanne qu'une foie chaque chunck et restera en veille tant qu'aucun nouveau chunck n'est trouvé.
+- Il supporte le minage par *TNT* et par *Lit* pour *le Nether*
+
+- En scannant, il remplace *la bedrock* en couche 0 de chaque Chunck par le *Bloc Barrière* <img src="https://mineblocks.com/1/wiki/images/c/cc/Barrier.png" width="20" height="20" /> . 
+Il ne scannera qu'une fois chaque Chunck et restera en veille tant qu'aucun nouveau Chunck n'est trouvé.
 
 ## Téléchargement
-[**Anti_Xray-MC-1.16**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Anti_Xray/tree/MC-1.16/datapack&fileName=Anti_Xray-MC-1.16&rootDirectory=false) *(Pour Minecraft 1.16 et plus)*
+[**Anti_Xray-MC-1.16**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Anti_Xray/tree/MC-1.16/datapack&fileName=Anti_Xray-MC-1.16&rootDirectory=false) *(Pour Minecraft 1.16)*
 
 
 
-## Instalation
+## Installation
 [Tutoriels Installer un datapack](https://minecraft.fandom.com/fr/wiki/Tutoriels/Installer_un_pack_de_donn%C3%A9es)
 
-Ce Datapack n'as besoin d'aucun configuration ni de commande et peux être utiliser sur un monde déjà existant.
-
+Ce Datapack n'as besoin d'aucune configuration ni de commande et peux être utilisé sur un monde déjà existant.
 
 ## Un mot sur moi
-Passionné par Minecraft depuis le tout début, J'ai toujours trouvé qu'il manquait un petit quelque chose pour améliorer la partie multijoueur et j'essaie de l'ajouter à travers mes développements et mes Datapack.
+Passionné par Minecraft depuis le tout début, j'ai toujours trouvé qu'il manquait un petit quelque chose pour améliorer la partie multijoueur. J'ai pour objectif d'améliorer ce mode de jeux par le développement de nouveaux Datapacks.
 
-**Lien utilie :**
+**Liens utiles :**
 - [Mon Tipee](https://fr.tipeee.com/flodev/)
-- [Mes autres développement](https://github.com/FloDev-yt?tab=repositories)
+- [Mes autres développements](https://github.com/FloDev-yt?tab=repositories)
 
-Vous pouvez aussi m'écrir à cette adresse mail : [flo.dev.yt@gmail.com](flo.dev.yt@gmail.com) pour me faire par d'un problème ou d'une remarque quelconque.
+Vous pouvez aussi m'écrire à cette adresse mail : [flo.dev.yt@gmail.com](flo.dev.yt@gmail.com) pour me faire part d'un problème ou d'une remarque quelconque.
