@@ -3,7 +3,7 @@
 Ce Datapack vous permet de rendre invisible tous les *blocs de diamants* <img src="https://lh3.googleusercontent.com/pntIUqSovRdD1HItuB4gHoWvbse9n6cNclPs7P7upGUjR_7P-8MpwsW4OeF3FMINeShNVNbltceAD-Uf5RvbMg" width="20" height="20" /> et de *débris antiques* <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/90/Ancient_Debris_(top_texture)_JE1_BE1.png" width="20" height="20" /> pour Minecraft Java édition.
 
 #### Exemple
-*Voici un joueur voulant utiliser X-Ray alors que le datapack est installé*
+*Voici un joueur voulant utiliser X-Ray alors que le Datapack est installé*
 
 ![https://imgur.com/NKEx0ya.gif](https://github.com/FloDev-yt/media/blob/main/demonstration.gif)
 
@@ -29,7 +29,7 @@ Il ne scannera qu'une fois chaque Chunck et restera en veille tant qu'aucun nouv
 
 
 ## Installation
-[Tutoriels Installer un datapack](https://minecraft.fandom.com/fr/wiki/Tutoriels/Installer_un_pack_de_donn%C3%A9es)
+[Tutoriels Installer un Datapack](https://minecraft.fandom.com/fr/wiki/Tutoriels/Installer_un_pack_de_donn%C3%A9es)
 
 Ce Datapack n'as besoin d'aucune configuration ni de commande et peux être utilisé sur un monde déjà existant.
 
